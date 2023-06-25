@@ -1,0 +1,10 @@
+{
+  "name": "larvagames",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/larvagames/larvagames.github.io.git",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {}
+}
